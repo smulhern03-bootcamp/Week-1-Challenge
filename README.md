@@ -12,7 +12,7 @@ The purpose of this analysis is to visualize and understand the relationship bet
 As previously mentioned, two different analyses were conducted both using outcomes as the dependent variable.
 
 ### Analysis of Outcomes Based on Launch Date
-![Theater Outcomes Based on Launch Date](https://github.com/smulhern03-bootcamp/Week-1-Challenge/blob/master/Outcome%20Based%20on%20Goal.png)
+![Theater Outcomes Based on Launch Date](https://github.com/smulhern03-bootcamp/Week-1-Challenge/blob/master/Outcomes%20Based%20on%20Launch%20Date.png)
 
 ### Analysis of Outcomes Based on Goals
 ![Outcome Based on Goal](https://github.com/smulhern03-bootcamp/Week-1-Challenge/blob/master/Outcome%20Based%20on%20Goal.png)
