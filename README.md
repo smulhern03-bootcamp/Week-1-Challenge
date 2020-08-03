@@ -41,4 +41,4 @@ The data does not (and really cannot) factor in the qualitiative aspects of the 
 
 2. Number of backers for each successful campaign and their donations.  What percentage of successful campaigns have lots of small donations vs a few large donations.
 
-3. Donations over time relative to launch date, goal date and goal achieved date.  Do campaigns that run for six months see more success over time or less success?  How long does it take for these campaigns to hit there target goal?  Is there anything about campaigns that hit their goal within days or hours?
+3. While the current dataset does not allow this, donations over time relative to launch date, goal date and goal achieved date.  Do campaigns that run for six months see more success over time or less success?  How long does it take for these campaigns to hit there target goal?  Is there anything about campaigns that hit their goal within days or hours?
